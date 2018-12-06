@@ -1,0 +1,32 @@
+/* All your custom styles go here. You can override the default Bootstrap styles or add your own custom styles for elements, classes, or IDs.  */
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-image: url(maxresdefault-3.jpg);
+    background-size: cover;
+}
+
+
+.card {
+    background-color: #99badd;
+}
+.card-title {
+    font-size: 1.5em;
+}
+.card-text {
+    color: gray
+}
+.card-description {
+    color: white;
+}
+
+.title {
+    text-align: center;
+    font-size:2em;
+    background-color: #99badd;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    
+}
+

@@ -1,0 +1,23 @@
+body {
+    background: url(fallunc.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.col-6 {
+    padding-top: 75px;
+    margin: 0 auto;
+}
+
+.row {
+    margin-top: 75px;
+}
+
+.card-img-top {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.card-text {
+    padding: 25px;
+    
+}
